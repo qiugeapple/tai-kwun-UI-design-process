@@ -16,7 +16,7 @@
 
 使用工具：Codex、HTML/CSS/JavaScript、SVG、浏览器预览、GitHub。Figma 用于后续作品集整理。
 
-## 最终原型片段
+## 最新原型片段——剧情中的解密模拟
 
 <img src="assets/character-placement.png" width="250" alt="口供沙盘人物放置"> <img src="assets/event-ordering.png" width="250" alt="事件排序"> <img src="assets/witness-check.png" width="250" alt="目击证词判断">
 
