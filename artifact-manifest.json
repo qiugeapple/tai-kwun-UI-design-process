@@ -1,0 +1,190 @@
+[
+  {
+    "stage": "01",
+    "file": "milestones/01/manga.png",
+    "source": "output/ui-designs/01-manga.png",
+    "sha256": "1a3791ebe3edc454fb3b664f367945a69c6246db26d9af1009ba7801005a2955"
+  },
+  {
+    "stage": "01",
+    "file": "milestones/01/geometric.png",
+    "source": "output/ui-designs/02-geometric.png",
+    "sha256": "ae945a297a952422b06b3af66aef01268aea23142440749c5dfcfe1c2cda72ef"
+  },
+  {
+    "stage": "01",
+    "file": "milestones/01/terminal.png",
+    "source": "output/ui-designs/03-terminal.png",
+    "sha256": "6050fc407bcaa7333d79779774e940bf188cbaa915a526ddc45224e393c03333"
+  },
+  {
+    "stage": "01",
+    "file": "milestones/01/notebook.png",
+    "source": "output/ui-designs/04-notebook.png",
+    "sha256": "dc7f53170b7374540f12d0579e0d963a75d745998c6334c04f237105eb42dff0"
+  },
+  {
+    "stage": "02",
+    "file": "milestones/02/overlays.png",
+    "source": "ui-review/overlay-preview.png",
+    "sha256": "4427394a9ed57af32bf00d31236d9ac1e029e65c040b672ba00a820944c6d70d"
+  },
+  {
+    "stage": "02",
+    "file": "milestones/02/briefing.png",
+    "source": "output/ui-designs/briefing-v01.png",
+    "sha256": "ab3f25861c1598f05ad830e7338351c49ad06be579a0322f7d384a9546c7406d"
+  },
+  {
+    "stage": "02",
+    "file": "milestones/02/mobile-fit.png",
+    "source": "ui-review/mobile-fit.png",
+    "sha256": "ea525b71d1d549f2819560ce71cc1fae9e34470bc1c46aa0d2379cfbaf48721c"
+  },
+  {
+    "stage": "02",
+    "file": "milestones/02/desktop-layout.png",
+    "source": "ui-review/desktop-layout.png",
+    "sha256": "9d4c3c6be1d7d5c44d5ca2291b6e47a43f994f235a4c8195967f1e70d7f98bd1"
+  },
+  {
+    "stage": "02",
+    "file": "milestones/02/interactive-preview.zip",
+    "source": "大馆密档-交互预览.zip",
+    "sha256": "567f4664b1e66d8a7a8b92b4707d2824f052d5e64ef86556f7470fd93076e37a"
+  },
+  {
+    "stage": "03",
+    "file": "milestones/03/map-filled.png",
+    "source": "ui-review/map-filled.png",
+    "sha256": "b4e41dabdf39e8d1be8814c6a125d326bdb800dffc4050228aafdd9205dfd712"
+  },
+  {
+    "stage": "03",
+    "file": "milestones/03/full-map-drag.png",
+    "source": "ui-review/full-map-drag.png",
+    "sha256": "26511e6d1e5b0c3f32af38bd723903c06afccd4499ec873409045510575c1ec3"
+  },
+  {
+    "stage": "03",
+    "file": "milestones/03/map-zoom-pan.png",
+    "source": "ui-review/map-zoom-pan.png",
+    "sha256": "9260aae17640390bc722d3b55cdaf0c4ca54656ce29b79225743e2742269a493"
+  },
+  {
+    "stage": "03",
+    "file": "milestones/03/map-filled.zip",
+    "source": "大馆密档-地图铺满版.zip",
+    "sha256": "ec081a821a9b5bd4dc6040b7ab8ee7ba3eb73445907681c28efc996afe468790"
+  },
+  {
+    "stage": "03",
+    "file": "milestones/03/map-zoom-pan.zip",
+    "source": "大馆密档-地图缩放拖动版.zip",
+    "sha256": "2be6e9cdfe1a058e8eaed196933771edb2f7aa1f0d136bab593c37f1778b44b4"
+  },
+  {
+    "stage": "05",
+    "file": "milestones/05/map-v2.png",
+    "source": "output/大馆密档-地图驱动UI-v2-预览.png",
+    "sha256": "804aadaed2c15efba03c806739a63f2b162ccee2f1660d51fefd9d0f33b0a5a1"
+  },
+  {
+    "stage": "05",
+    "file": "milestones/05/archive-drawer.png",
+    "source": "output/大馆密档-v3档案抽屉.png",
+    "sha256": "4265a313f5d495b1b8e4172b8f6cde63e8e64dee262ed633d209a4be8ad38169"
+  },
+  {
+    "stage": "05",
+    "file": "milestones/05/simplified-entry.png",
+    "source": "output/地图入口精简预览.png",
+    "sha256": "aa21ad4662de8e3f00ccb9c2ebd37128a04e3fe4d60f8e410c1247f3e684a1f4"
+  },
+  {
+    "stage": "05",
+    "file": "milestones/05/completed-stamp.png",
+    "source": "output/V4-1完成印章预览.png",
+    "sha256": "f11eaee8d9f41eac1a2e43507057b65d24a453b8da6ae67ff35c253b78c0558b"
+  },
+  {
+    "stage": "05",
+    "file": "milestones/05/map-v2-retained.zip",
+    "source": "大馆密档-地图驱动UI-v2.zip",
+    "sha256": "8964783e09b3365cf326a3e0a0ee4134f2f6007089f1ba9a89b089f37a99fcf7"
+  },
+  {
+    "stage": "05",
+    "file": "milestones/05/map-v4.zip",
+    "source": "大馆密档-任务分流UI-v4.zip",
+    "sha256": "438da23831e7213aa8ed484eb5cec32cdf0ff01b1e3f8b05cd383e6a346f01b2"
+  },
+  {
+    "stage": "05",
+    "file": "milestones/05/map-v4-1-share.zip",
+    "source": "大馆密档-分享版-V4.1-20261028.zip",
+    "sha256": "3ebeb51fe2f11b3dbb21d00eb71eba23a0c95421865954fc2babf810dfd91b31"
+  },
+  {
+    "stage": "06",
+    "file": "milestones/06/download-check.png",
+    "source": "output/下载包实际运行核对.png",
+    "sha256": "784e6631adb4c028849775606f7246681a7a61a7823c8235243651f6771f65ff"
+  },
+  {
+    "stage": "06",
+    "file": "milestones/06/content-audit.png",
+    "source": "output/DEMO文档核对修订预览.png",
+    "sha256": "1b0142d4e078772390c975f4cb322c0457aa2caf34e44bce03e4d93ac897af29"
+  },
+  {
+    "stage": "06",
+    "source": "大馆密档-原生小程序-V4.2-20261029.zip",
+    "public": false,
+    "reason": "原生技术工程配置与素材尚未逐项审查，不整包公开",
+    "sha256": "935ef7193e0fb8fc02f29d62b6809d516721451be56ec6b97bd6d3669ffd7a95"
+  },
+  {
+    "stage": "06",
+    "source": "大馆密档-DEMO核对原生版-V4.3-20261029.zip",
+    "public": false,
+    "reason": "原生技术工程配置与素材尚未逐项审查，不整包公开",
+    "sha256": "9e76e7e8a17eff212c99bb0ef7fbefe0bac65fe50649479ad23d5292b9085b94"
+  },
+  {
+    "stage": "07",
+    "file": "milestones/07/character-placement.png",
+    "source": "output/头像版沙盘-人物放置.png",
+    "sha256": "1890922201d1da5856f9e229fd957629873a41a4cdace6acd186d76d147f6feb"
+  },
+  {
+    "stage": "07",
+    "file": "milestones/07/icon-directions.png",
+    "source": "output/事件图标-三套方案.png",
+    "sha256": "50a042135b1b8eda4352dda2545367b505b8a6172d8c162f62b3f9e898c105cc"
+  },
+  {
+    "stage": "07",
+    "file": "milestones/07/push-final.png",
+    "source": "output/推倒图标-用户指定版替换.png",
+    "sha256": "8216ed9f6af88779739645f3f6c28bc30a9dc5f5deb6a57af00982d8be01dd37"
+  },
+  {
+    "stage": "07",
+    "file": "milestones/07/witness-check.png",
+    "source": "output/目击证词-交互优化.png",
+    "sha256": "052acddd81e476c04ebc604d01bcca1ebad069f9b37f78555226d40c3631ebb2"
+  },
+  {
+    "stage": "07",
+    "file": "milestones/07/chapter-one-review.zip",
+    "source": "大馆密档-第一章沙盘Demo-V5-证词交互优化版.zip",
+    "sha256": "ca4e770a5cfcb41a92b60e5a388831681dac67b297b6c265e148102ce84497d2"
+  },
+  {
+    "stage": "07",
+    "file": "milestones/07/chapter-one-standalone.zip",
+    "source": "第一章-两个口供沙盘-独立版.zip",
+    "sha256": "2e29793c57528f7caa027f266f144359e6cf97b9f6d6912e518771ba7a7180c9"
+  }
+]
