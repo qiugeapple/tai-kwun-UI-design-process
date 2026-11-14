@@ -21,8 +21,14 @@
 
 我的职责覆盖需求表达、素材补全与适配、视觉和交互判断、迭代反馈及交付整理；AI 辅助代码与素材制作。
 
+## 最新原型片段——剧情中的解密模拟
+
+<img src="assets/character-placement.png" width="250" alt="口供沙盘人物放置"> <img src="assets/event-ordering.png" width="250" alt="事件排序"> <img src="assets/witness-check.png" width="250" alt="目击证词判断">
+
+人物放置 → 事件排序 → 待核实信息；人影标记 → 证词含义判断 → 线索入档。
 ## 历史过程
 
 [早期按日期整理的阶段记录](timeline/) · [历史主题记录](docs/)
 
 历史阶段为回顾整理，当前每周工作总结已结合本人检查反馈更新。
+
