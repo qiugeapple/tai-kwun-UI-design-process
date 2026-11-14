@@ -2,7 +2,23 @@
 
 结合美术组已有素材与资产，补全 UI 和解谜美术，并借助 AI 产出适配技术组微信小程序开发环境的基础交互代码。
 
-## 我的工作与工作流
+## 项目简介
+
+《大馆密档》（Tai Kwun Files）是一个以香港大馆为实地探索场景、以1993年香港案件为叙事背景的 AR 导览解谜微信小程序项目。玩家扮演法援律师程日安，跟随地图寻找调查点位，通过现场扫描、角色对话、材料查阅和解谜逐步核实案件，体验一段与场馆空间结合的调查故事。
+
+项目由四章调查内容组成：从口供与目击证词出发，梳理人物关系和行踪，再核对医学材料、认罪动机与更正证词，推进到案卷复核及法庭收尾。地图导航、任务进度、剧情、解谜、档案和设置共同构成完整 UI 体验。
+
+**基本体验流程：进入案件 → 地图找点 → 现场指引与扫描 → 剧情对话 → 解谜与材料核查 → 线索归档 → 下一调查点。**
+
+## 我的职责：全项目 UI 设计与制作
+
+**本项目的 UI 设计与制作由我负责，覆盖主 Demo 的通用页面与四个章节的交互页面。** 美术组提供人物设定、场景等已有资产，我在其视觉风格基础上补全和适配 UI、解谜过程中需要的美术资源，并借助 AI 制作高保真页面及基础交互代码，整理、转换到技术组的微信小程序开发环境中。
+
+- 通用 UI：案件入口、引导、地图、任务、地点指引、扫描、剧情、档案、设置与状态反馈。
+- 四章交互 UI：口供沙盘、证词核查、人物关系、行踪材料、医学资料、会谈判断、案卷盖章及结局收录。
+- 制作与交接：素材复用和补齐、角色与场景适配、手机单屏布局、资源压缩、交互迭代与代码打包。
+
+## 工作流
 
 我负责梳理交互所需资产，复用、适配正式人物和场景，补充 UI 与解谜资源，制作高保真页面与基础交互代码，并按点位整理素材、版本和交付包。技术组继续负责项目环境中的接入与后续工程开发。
 
@@ -12,11 +28,15 @@
 
 以下为实际制作过程截图，并非重新绘制的概念图。不同截图对应不同版本节点；主 Demo 导航与各章独立交互分别展示。
 
-### 主 Demo · 地图、任务与档案
+### 主 Demo · 完整通用页面
 
-地图承担位置与当前目标；任务抽屉查看进度；档案抽屉查阅资料。以下为地图流程重构阶段的真实页面，展示导航结构，部分任务文案属于历史版本。
+以下九页展示我负责的主 UI 系统。截图取自 V4.1 历史画板，呈现页面布局和视觉设计；案情文字与任务配置随后继续依据文档迭代。扫描画面为演示 UI。
 
-<table><tr><th>地图主界面</th><th>任务清单</th><th>分类档案</th></tr><tr><td><img src="assets/showcase/main-map.png" width="280" alt="地图主界面"></td><td><img src="assets/showcase/main-tasks.png" width="280" alt="任务清单"></td><td><img src="assets/showcase/main-archive.png" width="280" alt="分类档案"></td></tr></table>
+<table><tr><th>案件入口</th><th>首次引导</th><th>调查地图</th></tr><tr><td><img src="assets/showcase/main-entry.png" width="280" alt="案件入口"></td><td><img src="assets/showcase/main-guide.png" width="280" alt="首次引导"></td><td><img src="assets/showcase/main-map.png" width="280" alt="调查地图"></td></tr></table>
+
+<table><tr><th>任务清单</th><th>地点与扫描指引</th><th>扫描界面</th></tr><tr><td><img src="assets/showcase/main-tasks.png" width="280" alt="任务清单"></td><td><img src="assets/showcase/main-location.png" width="280" alt="地点与扫描指引"></td><td><img src="assets/showcase/main-scan.png" width="280" alt="扫描界面"></td></tr></table>
+
+<table><tr><th>现场剧情</th><th>分类档案</th><th>设置与帮助</th></tr><tr><td><img src="assets/showcase/main-story.png" width="280" alt="现场剧情"></td><td><img src="assets/showcase/main-archive.png" width="280" alt="分类档案"></td><td><img src="assets/showcase/main-settings.png" width="280" alt="设置与帮助"></td></tr></table>
 
 ### 第一章 · 口供沙盘与证词核查
 
